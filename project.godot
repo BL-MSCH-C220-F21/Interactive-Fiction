@@ -15,7 +15,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Interactive Fiction"
-run/main_scene="res://Game.tscn"
+run/main_scene="res://Scenes/Bridge.tscn"
 config/icon="res://icon.png"
 
 [rendering]
